@@ -1,24 +1,6 @@
 Project title:
 Predicting Food Delivery Times Using Machine Learning
-Semester : Summer2025
-Department: CSE
-Course Code : CSE422
-Section : 02
-ARTIFICIAL INTELLIGENCE
-Group No : 12
-ID Name
-22101407 Md. Tanvir Haque Shitab
-24341171 Masrur Hoque
-Table of Contents:
-2
-Serial Topic Page
-1 Introduction 3
-2 Dataset description 3-5
-3 Dataset pre-processing 5-6
-4 Dataset splitting 6
-5 Model training & testing 6
-6 Model selection/Comparison analysis 6-10
-7 Conclusion 11
+
 Introduction
 This project focuses on predicting food delivery times based on various influencing
 factors such as distance, weather conditions, traffic levels, delivery type, and courier
